@@ -21,6 +21,6 @@ npm install
 npm start
 ```
 ### Created by:
-Author: Twilighty Abhi
-Date: 07/05/2022
+Author: Twilighty Abhi <br>
+Date: 07/05/2022 <br>
 Ver: 0.03

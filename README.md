@@ -11,11 +11,22 @@ A website displaying the Notion DB and also accepting a daily journaling system
 - Create an integration
 - Share your calendar with the integration
 
+##Working
+The webpage collects tasks that i have assigned or created in Notion and imports them on <br>
+to the screen on pressing the **Get Tasks** button. <br>
+We can Also add tasks in the webpage which will then **cross sync with Notion** , <br>
+whilst reflecting and syncing event the current status of the **task**
+The webpage also features a **Daily Journaling** Button which when clicked redirects to a **Google Form** <br>
+where we can do the journal of the day by answering the questions.<br>
+
+##Future Updates:
+* Will be adding a seperate Daily Journal page which displays journal of last 7 days by filtering the wholw database. <br>
+* Will be adding in a pomodoro based timer for each task.
+* Create a daily card which renders daily tasks done and congratulates the user.
 
 ## Usage
 
-Add your notion secret token and the database id to the .env-example file and rename to .env
-
+Add your notion secret token and the database id to the .env file 
 ```
 npm install
 npm start

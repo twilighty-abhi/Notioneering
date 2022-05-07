@@ -23,7 +23,8 @@ where we can do the journal of the day by answering the questions.<br>
 ## ScreenShots
 
 ### Webpage view:
-![Web view ](https://user-images.githubusercontent.com/79564956/167264309-ec7275c3-2147-4600-aa95-c89bb3ab31d1.png)
+![Web view ](https://user-images.githubusercontent.com/79564956/167264402-e10f9784-77c8-4618-86be-690d4ede3dc2.png)
+
 <br>
 ### Notion DB Preview:
 ![notion database](https://user-images.githubusercontent.com/79564956/167264333-b1080659-0ed9-4789-87fd-b3ab3020b352.png)

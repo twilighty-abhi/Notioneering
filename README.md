@@ -33,6 +33,11 @@ where we can do the journal of the day by answering the questions.<br>
 
 Link to the google form: https://forms.gle/98vBZzENc81iL7S89
 
+<br>
+<br>
+
+Link to Notion Tasks DB: https://twilighty0abhi.notion.site/Notion-TO-DO-List-DB-3b67d622e2f24c6c899d49460654e034
+
 ## Future Updates:
 * Will be adding a seperate Daily Journal page which displays journal of last 7 days by filtering the wholw database. <br>
 * Will be adding in a pomodoro based timer for each task.

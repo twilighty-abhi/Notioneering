@@ -19,6 +19,17 @@ whilst reflecting and syncing event the current status of the **task**
 The webpage also features a **Daily Journaling** Button which when clicked redirects to a **Google Form** <br>
 where we can do the journal of the day by answering the questions.<br>
 
+
+## ScreenShots
+
+### Webpage view:
+![Web view ](https://user-images.githubusercontent.com/79564956/167264309-ec7275c3-2147-4600-aa95-c89bb3ab31d1.png)
+<br>
+### Notion DB Preview:
+![notion database](https://user-images.githubusercontent.com/79564956/167264333-b1080659-0ed9-4789-87fd-b3ab3020b352.png)
+<br>
+Link to the google form: https://forms.gle/98vBZzENc81iL7S89
+
 ## Future Updates:
 * Will be adding a seperate Daily Journal page which displays journal of last 7 days by filtering the wholw database. <br>
 * Will be adding in a pomodoro based timer for each task.

@@ -27,8 +27,10 @@ where we can do the journal of the day by answering the questions.<br>
 
 <br>
 ### Notion DB Preview:
+
 ![notion database](https://user-images.githubusercontent.com/79564956/167264333-b1080659-0ed9-4789-87fd-b3ab3020b352.png)
 <br>
+
 Link to the google form: https://forms.gle/98vBZzENc81iL7S89
 
 ## Future Updates:
